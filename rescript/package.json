@@ -2,7 +2,7 @@
   "devDependencies": {
     "@babel/core": "^7.22.15",
     "@babel/preset-env": "^7.22.15",
-    "@glennsl/rescript-jest": "^0.10.0",
+    "@glennsl/rescript-jest": "^0.11.0",
     "babel-jest": "^29.6.4",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "esbuild": "^0.19.2",
