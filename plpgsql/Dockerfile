@@ -1,4 +1,4 @@
-FROM postgres:12.1 as base
+FROM postgres:17.2 as base
 WORKDIR /app
 
 ENV PGHOST=localhost
