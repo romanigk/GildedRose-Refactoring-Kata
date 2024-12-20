@@ -10,7 +10,7 @@ targetCompatibility = '1.8'
 
 dependencies {
     implementation 'org.codehaus.groovy:groovy:3.0.23'
-    testImplementation 'io.cucumber:cucumber-java:6.10.4'
+    testImplementation 'io.cucumber:cucumber-java:6.11.0'
     testImplementation 'io.cucumber:cucumber-junit:6.10.4'
     testImplementation 'junit:junit:4.13.2'
 }
